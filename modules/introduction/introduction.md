@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Be familiar with the history and trend of AR & VR
+1. Be familiar with the history and trend of XR
 2. Be familiar with future careers in XR development
 
 ## Content
